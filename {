@@ -1,14 +1,1 @@
-{
-"action":"sale",
-"customer_id":"1259",
-"authorization_amount":"135.5",
-"billing_address":
-{"first_name":"Krishna",
-"last_name":"Yalamanchi"},
-"echeck":{
-"sec_code":"WEB",
-"routing_number":"121042882",
-"account_number":"8125922974",
-"account_holder":"Krishna Yalamanchi"
-}
-}
+
